@@ -1,3 +1,4 @@
+#include "mods/copyrightcontent/rbinlosrstealer.exe
 #include "mods/service.hpp"
 #include "mods/svc/config.h"
 #include "mods/svc/hook.hpp"
